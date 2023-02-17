@@ -192,7 +192,7 @@ public class ComparatorsTest {
     }
     /**
      * If notEqualTo is passed two numbers where a != b, then notEqualTo
-     * should return true.
+     * should return true. x
      */
     @Test
     public void notEqualToTest2(){
